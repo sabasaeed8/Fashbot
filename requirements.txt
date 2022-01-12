@@ -3,5 +3,5 @@ scipy>=0.15.1
 scikit-learn==1.0.1
 matplotlib>=1.4.3
 pandas>=0.19
-tensorflow==2.1.0
+tensorflow>=2.1.0
 streamlit
